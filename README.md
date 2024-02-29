@@ -1,2 +1,2 @@
 # RTG
-This repository is only for RTG training on Git
+This repository is only for RTG training on Git Olesya
